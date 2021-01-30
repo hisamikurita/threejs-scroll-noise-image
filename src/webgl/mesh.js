@@ -25,7 +25,7 @@ export default class Mesh {
             useWireframe: false,
         };
 
-        this.path = "/dist/images/noise03.jpg";
+        this.path = "https://hisamikurita.github.io/threejs-scroll-noise/dist/images/noise03.jpg";
 
         // マテリアル（シェーダの中）で使用するユニフォーム変数
         this.uniforms = {
